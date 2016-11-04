@@ -1,0 +1,80 @@
+#Log {
+	color:#252627;
+	font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+	font-size: 45px;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: bold;
+	line-height: 22.5px;
+}
+
+.Top {
+	background-color:#904E55;
+	border-color:#564E58;
+	border-style:solid;
+	border-top: transparent;
+}
+
+.center {
+	text-align: center;
+}
+
+.container-fluid {
+  padding:0;
+  margin:0;
+	background-color:#F2EFE9;
+}
+
+.linkBtn {
+	background-color:#904E55;
+	border-width: 3px;
+	border-color:#F2EFE9;
+	border-style: outset;
+	float:right;
+	padding:1px;
+}
+
+.linkTxt {
+	color:#252627;
+	font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-variant: small-caps;
+}
+
+.linkTxt:hover {
+	color:#252627;
+	font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-variant: small-caps;
+	text-decoration:none;
+}
+
+.body {
+	background-color:#F2EFE9;
+}
+
+.infoBox {
+	background-color:#904E55;
+	margin-top:10px;
+	border-style:solid;
+	border-radius:10px;
+	border-color:#564E58;
+}
+
+.infoTitle {
+	color:#F2EFE9;
+	font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+	font-size: 30px;
+	font-style: normal;
+	font-variant: small-caps;
+}
+
+.infoText {
+	color:#F2EFE9;
+	font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-variant: small-caps;
+}
